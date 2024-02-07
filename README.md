@@ -1,6 +1,6 @@
 # instagram
 
-### This project is my web programming lesson. It is a website similar to Instagram.
+### Instagram Clone
 
 ##### Sign-up
 ![Sign-up](https://raw.githubusercontent.com/wexsilon/instagram/master/screenshot/1.jpg)
